@@ -39,7 +39,7 @@ GraphQL is utilized in this project to provide a more efficient and flexible API
 
 ### Installation
 
-1. Clone the project: `git clone https://github.com/username/project.git`
+1. Clone the project: `git clone https://github.com/eminmetin/graphql-basics`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
