@@ -1,0 +1,21 @@
+{
+  "personeller": [
+    {
+      "id": "3",
+      "isim": "rıza",
+      "yas": "31"
+    },
+    {
+      "isim": "emin",
+      "email": "emin@google.com",
+      "yas": 24,
+      "id": "nQzCTy2"
+    },
+    {
+      "isim": "fatihsultanmehmet",
+      "email": "sultanmehmet@google.com",
+      "yas": "1453",
+      "id": "pZ7llDT"
+    }
+  ]
+}
